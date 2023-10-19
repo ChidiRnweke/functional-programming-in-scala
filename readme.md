@@ -1,0 +1,1 @@
+My solutions to exercises of the book *functional programming in Scala*

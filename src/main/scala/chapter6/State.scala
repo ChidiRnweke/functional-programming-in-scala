@@ -1,3 +1,5 @@
+package State
+
 opaque type State[S, +A] = S => (A, S)
 
 object State:

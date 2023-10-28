@@ -25,6 +25,7 @@ classes/
 .bloop/
 .metals/
 */.scala-build/
+.scala-build/
 # idea
 .idea
 .idea_modules
